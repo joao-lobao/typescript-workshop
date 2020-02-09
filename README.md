@@ -2,5 +2,8 @@
 
 Some live coding repo to a Typescript Workshop
 
-Run the command to transpile your code:
-`tsc filename.ts`
+Run `npm install` to install typescript dependency
+
+Run `tsc filenamte.ts` to transpile your typescripts file
+
+And finally `node filename.js` to execute your javascript file
