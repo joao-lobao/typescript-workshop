@@ -1,0 +1,21 @@
+{
+  "name": "typescript-workshop",
+  "version": "1.0.0",
+  "description": "A TypeScript workshop",
+  "main": "index.ts",
+  "scripts": {
+    "tsc": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao-lobao/typescript-workshop"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Joao Lobao",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
